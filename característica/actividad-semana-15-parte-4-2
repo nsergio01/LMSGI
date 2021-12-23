@@ -1,0 +1,13 @@
+
+a.red {
+    color: red;
+}
+
+a.grey {
+    color: grey;
+}
+
+a.full {
+    background-color: red;
+    color: white;
+}
