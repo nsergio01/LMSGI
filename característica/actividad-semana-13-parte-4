@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta charset="utf-8"/>
+	<title>Actores y directores de cine</title>
+
+</head>
+
+<body>
+
+    <ul>
+        <li>Actores</li>
+
+            <ul>
+
+                <li type="circle">Brad Pitt</li>
+                <li type="circle">Jared Leto</li>
+                <li type="circle">Elliot Page</li>
+
+            </ul>
+
+    </ul>
+
+    <ul>
+        <li>Directores:</li>
+
+            <ul>
+
+        <li type="circle">Quentin Tarantino</li>
+        <li type="circle">Sofia Coppola</li>
+
+            </ul>
+            
+    </ul>
+        
+</body>
+
+</html>
