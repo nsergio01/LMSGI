@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta charset="utf-8"/>
+	<title>Películas Quentin Tarantino</title>
+
+</head>
+
+<body>
+
+    <ul>
+
+        <li>Érase una vez en... Hollywood</li>
+
+            <ul>
+                <li type="circle">Director:</li>
+
+                <ul>
+
+                    <li type="square">Quentin Tarantino</li>
+    
+                </ul>
+
+            </ul>
+
+            <ul>
+                <li type="circle">Actores:</li>
+
+                <ul>
+
+                    <li type="square">Brad Pitt</li>
+                    <li type="square">Leonardo DiCaprio</li>
+                    <li type="square">Margot Robbie</li>
+                    <li type="square">...</li>
+    
+                </ul>
+
+            </ul>
+
+
+    </ul>
+
+
+        
+</body>
+
+</html>
