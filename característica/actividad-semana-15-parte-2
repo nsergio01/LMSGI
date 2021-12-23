@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta charset="utf-8"/>
+	<title>Estilos CSS</title>
+    <style>
+
+        b.red {
+            color: red;;
+        }
+
+        b.big {
+            font-size: 20px;
+        }
+
+        b.blue {
+            color: blue;
+        }
+
+        u.green {
+
+            color: green;
+        }
+
+        u.red2 {
+
+            color: red;
+        }
+
+
+    </style>
+
+</head>
+
+<body>
+
+<p>En el momento en que <u class="green"> entiendo verdaderamente </u> a mi <b class="red"> enemigo </b> en el momento en que le entiendo lo</p>
+<p>suficientemente bien como para <b class="big"> derrotarle </b>, entonces, es ese preciso instante,</p>
+<p><b class="blue"> también le </b><u class="red2"> quiero.</u></p>
+
+
+        
+</body>
+
+</html>
